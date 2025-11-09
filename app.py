@@ -192,7 +192,7 @@ def main():
         st.markdown('<div class="map-container">', unsafe_allow_html=True)
         
         # External map URL - replace with your actual hosted map URL
-        map_url = "https://your-username.github.io/hdb-resale-map/hdb_resale_price_map_clickable.html"
+        map_url = "https://YOUR_USERNAME.github.io/hdb-resale-map/hdb_resale_price_map_clickable.html"
         
         try:
             # Embed external map

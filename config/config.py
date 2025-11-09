@@ -23,7 +23,7 @@ MODEL_CONFIG = {
 
 # Map Configuration
 MAP_CONFIG = {
-    "MAP_URL": "https://your-username.github.io/hdb-resale-map/hdb_resale_price_map_clickable.html",
+    "MAP_URL": "https://YOUR_USERNAME.github.io/hdb-resale-map/hdb_resale_price_map_clickable.html",
     "MAP_HEIGHT": 600,
     "DEFAULT_LOCATION": [1.3521, 103.8198],  # Singapore coordinates
     "DEFAULT_ZOOM": 11
